@@ -979,4 +979,16 @@ ul.address {
 
 /*Presets*/
 
+.navbar-brand span {
+  display: inline-block;
+}
 
+.navbar-brand img {
+  width: 42px;
+}
+
+.navbar-brand .caption {
+  color: white;
+  vertical-align: top;
+  
+}
